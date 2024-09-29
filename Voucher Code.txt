@@ -1,0 +1,8 @@
+abAB123
+ABab123
+abAB321
+ABab321
+123abAB
+123ABab
+321abAB
+321ABab
