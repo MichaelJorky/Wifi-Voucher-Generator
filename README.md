@@ -26,9 +26,20 @@ Features Wifi Voucher Generator
 
 #
 <b>[ Log Status ]</b>
+
 ~ No: untuk menampilkan nomor urut atau jumlah kode voucher yang di cek.
+
 ~ Voucher Kode: untuk menampilkan daftar kode voucher yang di cek. 
+
 ~ Voucher Status: untuk menampilkan status kode voucher.
+
+- Login Failed (kode voucher tidak sesuai)
+- User Already Active (kode voucher sedang aktif)
+- Session Limit Reached (Tidak ada lagi sesi yang diizinkan untuk pengguna)
+- Login Successful (kode voucher berhasil digunakan)
+- Error 501 Not Implemented (Server tidak mengenali metode permintaan, atau tidak memiliki kemampuan untuk memenuhi permintaan tersebut.)
+
+~ Untuk bantuan lebih lanjut seputar Aplikasi Wifi Voucher Generator klik pada bagian "Help" -> "Instruction Videos".
 
 #
 
