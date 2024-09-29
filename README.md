@@ -6,7 +6,7 @@ WiFi Voucher Generator adalah sistem atau perangkat lunak yang menghasilkan kode
 
 #
 Fitur Wifi Voucher Generator 
-- Support Auto/Manual Generator Vocher Code
+- Support Auto/Manual Generator Voucher Code
 - Support Characters (UpperCase, Numbers, LowerCase)
 - Hash Keys/Chars: minimum 4 Characters & maximum 8 Characters
 - Support Forward IP Address
@@ -18,5 +18,11 @@ Fitur Wifi Voucher Generator
 
 #
 <b>[ Cara Penggunaan ]</b>
+1. Download Wifi Voucher Generator via: https://codeload.github.com/MichaelJorky/Wifi-Voucher-Generator/zip/refs/heads/main
+2. Extract Wifi-Voucher-Generator-main menggunakan WinRar.
+3. Buka Folder Wifi-Voucher-Generator-main dan jalankan Wifi Voucher Generator.exe
+4. Pada bagian Generator pilih Auto Generate VC atau Manual Generate VC, Jika memilih Manual Generate VC pastikan sudah mengisi daftar kode voucher pada "Voucher Code.txt".
+5. Pada bagian Hash Keys: isikan Kode Voucher yang sebelumnya pernah dibeli/diketahui dari Access Point Wi-Fi bersangkutan, misal hash keys: abAB123 secara default Characters set dan hash chars akan menyesuaikan dan mendeteksi secara otomatis hash keys.
 
+#
 
