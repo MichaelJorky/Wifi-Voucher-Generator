@@ -16,6 +16,8 @@ Features Wifi Voucher Generator
 
 ~ (v1.0.0.1) Minggu 29 September 2024 - First Release Wifi Voucher Generator
 
+~ (v1.0.0.2) Senin 16 Desember 2024 - Perbaikan Bug API Windows
+
 #
 <b>[ Cara Penggunaan ]</b>
 1. Download Wifi Voucher Generator via: https://codeload.github.com/MichaelJorky/Wifi-Voucher-Generator/zip/refs/heads/main
