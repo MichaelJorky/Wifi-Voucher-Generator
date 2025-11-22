@@ -14,10 +14,6 @@ Features Wifi Voucher Generator
 - Support Random User Agent
 - Support Windows x86 (32 bit) & x64 (64 bit) ~ Testing Windows 10 Pro 22H2
 
-~ (v1.0.0.1) Minggu 29 September 2024 - First Release Wifi Voucher Generator
-
-~ (v1.0.0.2) Senin 16 Desember 2024 - Perbaikan Bug API Windows
-
 #
 <b>[ Cara Penggunaan ]</b>
 1. Download Wifi Voucher Generator via: https://codeload.github.com/MichaelJorky/Wifi-Voucher-Generator/zip/refs/heads/main
@@ -40,8 +36,6 @@ Features Wifi Voucher Generator
 - Session Limit Reached (Tidak ada lagi sesi yang diizinkan untuk pengguna)
 - Login Successful (kode voucher berhasil digunakan)
 - Error 501 Not Implemented (Server tidak mengenali metode permintaan, atau tidak memiliki kemampuan untuk memenuhi permintaan tersebut.)
-
-~ Untuk bantuan lebih lanjut seputar Aplikasi Wifi Voucher Generator klik pada bagian "Help" -> "Instruction Videos".
 
 #
 
