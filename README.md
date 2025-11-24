@@ -16,7 +16,7 @@ Features Wifi Voucher Generator
 
 #
 <b>[ Cara Penggunaan ]</b>
-1. Download Wifi Voucher Generator via: https://codeload.github.com/MichaelJorky/Wifi-Voucher-Generator/zip/refs/heads/main
+1. Download Wifi Voucher Generator via: https://github.com/MichaelJorky/Wifi-Voucher-Generator/releases
 2. Extract "Wifi-Voucher-Generator-main" menggunakan WinRar dan buka Folder Wifi-Voucher-Generator-main.
 3. Jika menggunakan kabel LAN matikan/disable dulu ethernetnya lalu Hubungkan ke AP Wi-fi Tujuan kemudian baru jalankan Wifi Voucher Generator.exe tujuannnya agar tidak terjadi konflik pendeteksian network interface.
 4. Pada bagian Generator pilih Auto Generate VC atau Manual Generate VC, Jika memilih Manual Generate VC pastikan sudah mengisi daftar kode voucher pada "Voucher Code.txt".
